@@ -1,0 +1,61 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1705493562836,
+            "name": "E:\\ser\\server\\log\\access-20240117.log",
+            "hash": "13a8a3b26e40d576ce22cf6e6f284ade"
+        },
+        {
+            "date": 1705540294469,
+            "name": "E:\\ser\\server\\log\\access-20240118.log",
+            "hash": "d6ac0af7949ff96bf395624d7021a010"
+        },
+        {
+            "date": 1706071949357,
+            "name": "E:\\ser\\server\\log\\access-20240124.log",
+            "hash": "06663b261d707e7087bdd169794f4e37"
+        },
+        {
+            "date": 1706162637270,
+            "name": "E:\\ser\\server\\log\\access-20240125.log",
+            "hash": "0472a5ef33238f27f61132f53c3373c5"
+        },
+        {
+            "date": 1706257615903,
+            "name": "E:\\ser\\server\\log\\access-20240126.log",
+            "hash": "792d78ace53fa7b42fa844123e5d9ba5"
+        },
+        {
+            "date": 1706337535202,
+            "name": "E:\\ser\\server\\log\\access-20240127.log",
+            "hash": "443b031540f922e7603dc6e5ab058674"
+        },
+        {
+            "date": 1706601275260,
+            "name": "E:\\ser\\server\\log\\access-20240130.log",
+            "hash": "af96418e890ecfc34a705b56830960f0"
+        },
+        {
+            "date": 1706698064968,
+            "name": "E:\\ser\\server\\log\\access-20240131.log",
+            "hash": "6e8ddfd19980898469026fc0f753a8b6"
+        },
+        {
+            "date": 1710075039699,
+            "name": "E:\\Programs\\ser\\server\\log\\access-20240310.log",
+            "hash": "6333ec0b5548355eb6f7b6fc3ed91cf3"
+        },
+        {
+            "date": 1710150550159,
+            "name": "E:\\Programs\\ser\\server\\log\\access-20240311.log",
+            "hash": "4f78bfbe5361f39fb6660cc0d8af8311"
+        }
+    ]
+}
